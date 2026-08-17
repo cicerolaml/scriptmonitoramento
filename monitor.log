@@ -1,0 +1,6 @@
+2026-08-16 20:22:04 - Monitoramento iniciado para http://helloworld.local (intervalo: 60 s)
+2026-08-16 20:22:04 - HTTP 200 - OK
+2026-08-16 20:23:04 - HTTP 200 - OK
+2026-08-16 20:24:04 - HTTP 200 - OK
+2026-08-16 20:25:06 - HTTP N/A - Falha de conexao: Impossível conectar-se ao servidor remoto
+2026-08-16 20:25:06 - Status diferente de 200 detectado. Encerrando monitoramento.
